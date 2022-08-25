@@ -19,6 +19,7 @@
   * [] During Break Time: Preview the next exercise.
  
 ===
+
 **Extra Features**
 * [] Timer pause function
 * ...
