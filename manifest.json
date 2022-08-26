@@ -8,5 +8,5 @@
     "default_icon": "icon_19.png",
     "default_popup": "popup.html"           
   },
-  "permissions": ["activeTab"]
+  "permissions": ["activeTab","alarms"]
 }
