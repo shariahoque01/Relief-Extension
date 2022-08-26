@@ -9,7 +9,7 @@
     "default_popup": "popup.html"           
   },
     "background":{
-    "scripts":["countdown.js"], 
+    "scripts":["background.js"], 
     "persistent":false
   },
   "permissions": ["activeTab","alarms","notifications"]
