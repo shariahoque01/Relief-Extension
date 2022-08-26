@@ -2,14 +2,14 @@
   "name": "Relief Extension",
   "description": "Reminders of Healthy Activites!",
   "version": "1.0.0",
-  "manifest_version": 3,
+  "manifest_version": 2,
   "icons": {"128":"icon_128.png"},
   "browser_action": {
     "default_icon": "icon_19.png",
     "default_popup": "popup.html"           
   },
     "background":{
-    "service_worker": "background.js",
+    "scripts":["background.js"],
     "persistent":false
   },
   "permissions": ["activeTab","alarms","notifications"]
